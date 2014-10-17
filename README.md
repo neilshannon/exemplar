@@ -1,3 +1,5 @@
-# exemplar - code examples
+========
+exemplar
+========
 
-Please check out the [wiki](https://bitbucket.org/EATurner/exemplar/wiki/Home) for current updates.
+NodeJS testing and coverage
