@@ -1,0 +1,6 @@
+coverage
+.idea
+.DS_Store
+tmp
+node_modules
+*.iml

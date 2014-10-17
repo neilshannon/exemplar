@@ -1,0 +1,20 @@
+{
+  "name": "exemplar-testing-showcase",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "make test",
+    "coverage": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- --ui bdd -t 5000"
+  },
+  "dependencies": {
+    "express": "~3.4.3"
+  },
+  "devDependencies": {
+    "mocha": "~1.15.1",
+    "sinon": "~1.7.3",
+    "should": "~2.1.1",
+    "istanbul": "~0.1.46",
+    "supertest": "~0.8.2"
+  }
+}
