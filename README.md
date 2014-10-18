@@ -2,4 +2,4 @@
 exemplar
 ========
 
-NodeJS testing and coverage
+NodeJS testing and coverage.
