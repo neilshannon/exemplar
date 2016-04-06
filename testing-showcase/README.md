@@ -35,3 +35,8 @@ and generate coverage reports available at ./coverage/lcov_reports/index.html
 ### package.json - npm configuration
 ### Makefile - make configuration to run Mocha
 ### test/mocha.opts - global options for Mocha
+
+## On Windows?
+- Run commands from the git bash shell
+- To test: run `./test.sh`
+- For coverage: run `./coverage.sh`
