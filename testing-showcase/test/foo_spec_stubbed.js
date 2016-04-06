@@ -31,7 +31,7 @@ describe('With the stubbed test API', function(){
     request
       .get('/api/foo')
       .end(function(err, resp){
-        resp.text.should.not.be.empty;
+        resp.text.should.equal('Response from foo_service: [STUBBED RESPONSE!]');
         resp.should.have.status(200);
         done();
       });

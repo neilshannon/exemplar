@@ -13,6 +13,11 @@ service call and one replacing the service call with a stub.
 * [sinon](http://www.sinonjs.org) - javascript spy/stub/mock support
 * [istanbul](http://gotwarlost.github.io/istanbul/) - javascript code coverage
 
+## Prerequisites
+
+* [nodejs](http://nodejs.org/) and must be installed
+* [git](http://git-scm.com/) (and git bash) must be installed
+
 ## Setup
 
     npm install
