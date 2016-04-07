@@ -2,7 +2,7 @@
 
 FROM centos:centos6
 
-MAINTAINER Neil Shannon <nshannon@thoughtworks.com>
+MAINTAINER Neil Shannon <neil@nts-dev.com>
 
 # Enable EPEL for node.js
 RUN rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
